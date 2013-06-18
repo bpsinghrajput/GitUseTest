@@ -21,7 +21,7 @@
     [self.window makeKeyAndVisible];
     NSLog(@"application did finish launching");
      NSLog(@"application did finish launching");
-    NSLog(@"application did finish launching");
+   
     return YES;
 }
 
